@@ -1,0 +1,8 @@
+scikit-learn==1.4.2
+numpy
+polars
+pandas
+matplotlib
+seaborn
+xgboost
+optuna
